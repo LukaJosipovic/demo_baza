@@ -1,0 +1,16 @@
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\bin\Debug\ConsoleDB.exe.config
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\bin\Debug\ConsoleDB.exe
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\bin\Debug\ConsoleDB.pdb
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\bin\Debug\EntityFramework.dll
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\bin\Debug\EntityFramework.xml
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.csproj.AssemblyReference.cache
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.csproj.SuggestedBindingRedirects.cache
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.csproj.CoreCompileInputs.cache
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.csproj.CopyComplete
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.exe
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.pdb
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.Migrations.InitialModel.resources
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.csproj.GenerateResource.cache
+D:\Algebra\4 semestar\Projektni razvoj web aplikacija\libraryDB\ConsoleDB\obj\Debug\ConsoleDB.Migrations.AddAuthor.resources
